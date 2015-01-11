@@ -1,0 +1,16 @@
+certifi==14.5.14
+ipython==2.3.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+numpy==1.9.1
+pandas==0.15.2
+Pygments==2.0.1
+pyqtconfig==0.7.1
+PySide==1.2.2
+python-dateutil==2.4.0
+pytz==2014.10
+pyzmq==14.4.1
+QtIPy==0.1.11
+runipy==0.1.1
+six==1.9.0
+tornado==4.0.2
